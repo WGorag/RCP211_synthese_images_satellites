@@ -10,4 +10,4 @@ RUN pip install -r requirement.txt
 
 EXPOSE 8888
 
-ENTRYPOINT [ "jupyter", "lab", "--ip=0.0.0.0", "--allow-root", "--no-browser", "--NotebookApp.token=''","--NotebookApp.password=''" ]
+ENTRYPOINT [ "jupyter", "lab", "--NotebookApp.allow_origin='*'", "--NotebookApp.ip='0.0.0.0'","--ip=0.0.0.0", "--allow-root", "--no-browser", "--NotebookApp.token='rcp211'","--NotebookApp.password=" ]
