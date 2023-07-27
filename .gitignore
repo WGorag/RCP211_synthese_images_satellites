@@ -1,6 +1,8 @@
 .ipynb_checkpoints/
 AerialImageDataset/
 preprocessedDataset/
+preprocessedDataset/
+dataset/
 NEW2-AerialImageDataset.zip
 aerialimagelabeling.7z.001
 aerialimagelabeling.7z.002
