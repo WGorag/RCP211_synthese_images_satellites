@@ -4,7 +4,7 @@
 - [x] Delete the initiale test datasets, it's useless
 - [x] Create new dataset from the initial dataset (img 256*256)
 - [x] Split it in train and test
-- [ ] preprocess the data
+- [x] preprocess the data
 - [ ] Create the generator
 - [ ] create the discriminator
 - [ ] Train them !
