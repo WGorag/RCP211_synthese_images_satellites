@@ -5,7 +5,7 @@
 - [x] Create new dataset from the initial dataset (img 256*256)
 - [x] Split it in train and test
 - [x] preprocess the data
-- [ ] Create the generator
+- [x] Create the generator
 - [ ] create the discriminator
 - [ ] Train them !
 - [ ] Evaluate the model

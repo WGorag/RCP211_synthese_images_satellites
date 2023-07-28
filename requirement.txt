@@ -8,3 +8,4 @@ opencv-python
 lxml
 beautifulsoup4
 tqdm
+pydot

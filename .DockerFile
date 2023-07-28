@@ -1,8 +1,9 @@
 FROM tensorflow/tensorflow:latest-gpu
+# FROM tensorflow/tensorflow:nightly-gpu
 
 WORKDIR /data
 
-RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  p7zip-full wget -y
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  p7zip-full wget graphviz -y
 RUN pip install --upgrade pip
 COPY requirement.txt requirement.txt
 
