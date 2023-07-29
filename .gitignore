@@ -3,6 +3,8 @@ AerialImageDataset/
 preprocessedDataset/
 preprocessedDataset/
 dataset/
+logs/
+training_checkpoints/
 NEW2-AerialImageDataset.zip
 aerialimagelabeling.7z.001
 aerialimagelabeling.7z.002

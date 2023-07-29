@@ -6,7 +6,7 @@
 - [x] Split it in train and test
 - [x] preprocess the data
 - [x] Create the generator
-- [ ] create the discriminator
-- [ ] Train them !
+- [x] create the discriminator
+- [x] Train them !
 - [ ] Evaluate the model
 - [ ] Generate picture from who translate satellite picture to an aerial
