@@ -8,5 +8,6 @@
 - [x] Create the generator
 - [x] create the discriminator
 - [x] Train them !
+- [ ] Refacto fit() to work in epoch
 - [ ] Evaluate the model
 - [ ] Generate picture from who translate satellite picture to an aerial
