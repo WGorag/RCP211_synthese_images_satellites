@@ -9,3 +9,6 @@ lxml
 beautifulsoup4
 tqdm
 pydot
+rasterio
+cv2-tools
+imageio

@@ -1,7 +1,9 @@
 .ipynb_checkpoints/
 AerialImageDataset/
 preprocessedDataset/
-preprocessedDataset/
+landcover/
+dataset_landcover/
+output/
 dataset/
 logs/
 training_checkpoints/
@@ -11,3 +13,4 @@ aerialimagelabeling.7z.002
 aerialimagelabeling.7z.003
 aerialimagelabeling.7z.004
 aerialimagelabeling.7z.005
+landcover.ai.v1.zip
