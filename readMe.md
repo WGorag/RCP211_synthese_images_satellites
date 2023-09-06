@@ -10,6 +10,8 @@ Cette etape peut prendre une peu de temps surtout lors de la première execution
 Une fois l'intallation réalisé, cliquez sur ce lien : http://localhost:8888/, pour accéder au projet (Token : rcp211). \
 Vous avez aussi accès au Tensorboard depuis http://localhost:6006/.
 
+NB: Si jamais il y a un problème avec le `requirement.txt` dans l'installation des conteneur, une solution possible est de copier/coller ce fichier dans  `./Docker/jupyter`. Si c'est le cas veuillez créer une issue.
+
 ## Contenu du repository
 Vous trouverez :
 
