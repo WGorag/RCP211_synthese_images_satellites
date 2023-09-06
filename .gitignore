@@ -5,7 +5,7 @@ landcover/
 dataset_landcover/
 output/
 dataset/
-logs/
+logs*/
 training_checkpoints/
 NEW2-AerialImageDataset.zip
 aerialimagelabeling.7z.001
@@ -14,3 +14,4 @@ aerialimagelabeling.7z.003
 aerialimagelabeling.7z.004
 aerialimagelabeling.7z.005
 landcover.ai.v1.zip
+*.h5

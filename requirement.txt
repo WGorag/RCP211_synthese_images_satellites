@@ -12,3 +12,5 @@ pydot
 rasterio
 cv2-tools
 imageio
+pyyaml
+h5py
