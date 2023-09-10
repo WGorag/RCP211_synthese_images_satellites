@@ -15,7 +15,7 @@ NB: Si jamais il y a un problème avec le `requirement.txt` dans l'installation 
 ## Contenu du repository
 Vous trouverez :
 
-- Un PDF contenant la présentation des différentes étape de la réalisation de ce projet
+- Un PDF "RCP211_CR.pdf" contenant la présentation des différentes étape de la réalisation de ce projet
 - Un fichier "pix2pix.ipynb" qui le fichier traité dans la partie III-F
 - Un fichier "pix2pix_upgrade_dataset.ipynb" qui le fichier traité dans la partie III-H
 - Un fichier "landcover.ipynb" qui le fichier traité dans la partie IV-D
